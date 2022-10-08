@@ -10,10 +10,10 @@ After analyzing the play Fever, the purpose of this project was to analyze campa
 
 ### Analysis of Outcomes Based on Launch Date
 The theater campaigns were most successful when their launch dates were in May and June. However, May had the most failed campaigns while November had the least number of failed campaigns. January had the most canceled campaigns and July had the least number of canceled campaigns.
-![plot](resources/Theater_Outcomes_vs_Launch.png)
+![resources](resources/Theater_Outcomes_vs_Launch.png)
 
 When visualizing the entire campaign Louise has held, May and June had the most successful campaign. July had the most failed campaigns and the most canceled. In addition to this, Louise ran the most campaigns in July. In addition to this, goals between $1,500 to $1,999 had the same number of success to failed outcomes.
-![plot](resources/Outcomes_vs_Goals.png)
+![resources](resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 When looking at the outcome based on goals, the projects with goals less than five thousand dollars had a higher percent of success in comparison to those that had a higher goal. However, there were no canceled projects. The goal with an outcome of $1,000 to $4,999 had the most projects completed and were the second most successful.
