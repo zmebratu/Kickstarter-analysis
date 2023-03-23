@@ -9,15 +9,15 @@ Our primary goal was to assist Louise with her crowdfunding campaign to raise mo
 Based on my analysis of the Theater Outcomes by Launch Date chart, it appears that summer months, specifically May to July, offer the greatest potential for success due to people's increased willingness to engage in activities during warmer weather; however, the chart also reveals that there are external factors beyond the season that impact success rates, as evidenced by a significant number of failed events during these months. Conversely, December had the highest percentage of failed events, suggesting that it may not be an ideal time to schedule a play due to people's inclination to spend time at home during the colder months.
 ![plot](Resources/Theater_Outcomes_vs_Launch.png)
 
-When visualizing the entire campaign Louise has held, May and June had the most successful campaign. July had the most failed campaigns and the most canceled. In addition to this, Louise ran the most campaigns in July. In addition to this, goals between $1,500 to $1,999 had the same number of success to failed outcomes.
-![plot](Resources/Outcomes_vs_Goals.png)
-
 ### Analysis of Outcomes Based on Goals
-When looking at the outcome based on goals, the projects with goals less than five thousand dollars had a higher percent of success in comparison to those that had a higher goal. However, there were no canceled projects. The goal with an outcome of $1,000 to $4,999 had the most projects completed and were the second most successful.
+The events that had a goal of less than $1,000 to $4,999 had the highest percentage of success, which is not surprising given that it is the lowest range of all; this suggests that as the fundraising goal increases, the chances of failure also increase, with the range between $25,000 to $34,999 and $45,000 to $49,999 showing the highest percentage of failed events. However, events with a goal between $35,000 to $44,999 had a remarkably high success rate of 67%, which could be attributed to their selection of an appropriate target audience or performing during a favorable season. It's noteworthy that there were no canceled events, and the chart demonstrates a clear inflection point where the percentage of success declines as the goal increases until it levels off in the $35,000 to $44,999 range.
+![plot](Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
-The challenges that I encountered mainly was figuring out Excel formulas but thankfully I had notes available to go back and review. In addition to this, I found GitBash a little difficult but my tutor was able to answer all of my questions.
+One of the primary limitations of the data is the lack of specific location information for events beyond the country level, which can obscure the impact of external factors such as geography on performance, and the absence of information regarding the target audience of the plays, which is crucial as it reflects the source of the funding and the primary objective of the fundraising.
+
+To mitigate these limitations, we could restrict the analysis to only the events that occurred within the past year, which could provide more accurate and relevant data. Additionally, we could consider creating a graph illustrating the average donation amount to identify which types of plays people are most willing to support.
 
 ## Results
 
