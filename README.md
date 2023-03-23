@@ -6,7 +6,7 @@ Our primary goal was to assist Louise with her crowdfunding campaign to raise mo
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The theater campaigns were most successful when their launch dates were in May and June. However, May had the most failed campaigns while November had the least number of failed campaigns. January had the most canceled campaigns and July had the least number of canceled campaigns.
+Based on my analysis of the Theater Outcomes by Launch Date chart, it appears that summer months, specifically May to July, offer the greatest potential for success due to people's increased willingness to engage in activities during warmer weather; however, the chart also reveals that there are external factors beyond the season that impact success rates, as evidenced by a significant number of failed events during these months. Conversely, December had the highest percentage of failed events, suggesting that it may not be an ideal time to schedule a play due to people's inclination to spend time at home during the colder months.
 ![plot](Resources/Theater_Outcomes_vs_Launch.png)
 
 When visualizing the entire campaign Louise has held, May and June had the most successful campaign. July had the most failed campaigns and the most canceled. In addition to this, Louise ran the most campaigns in July. In addition to this, goals between $1,500 to $1,999 had the same number of success to failed outcomes.
