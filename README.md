@@ -21,8 +21,4 @@ To mitigate these limitations, we could restrict the analysis to only the events
 
 ## Results
 
-One conclusion I can draw from the Outcomes based on Launch date is that May and June were the most successful campaigns. In addition to this, December had the worst success to failed campaign rate.
-After analyzing the outcomes based on goals, I believe that $4,999 is the maximum amount that should be spent on a campaign.
-A limitation on this dataset is that the Outcomes based on Goals doesn’t allow the information to be filtered by parent category. If this were to occur, this will allow a more in-depth review of each category. In addition to this, the dataset could be filtered by year to identify if there’s any room for adjustments to be made.
-I think we could create another Outcomes by Launch Date graph to visually see all the parent categories together. I would also create another Outcomes based on Goals graph for each parent category. These will allow a more detailed synopsis about the campaigns.
-
+Based on the Outcomes by Launch Date data, May and June were the most successful months for campaigns, whereas December had the poorest success rate. Upon reviewing the Outcomes by Goals data, I concluded that a campaign goal of no more than $4,999 is advisable. However, the limitation of the dataset is that it lacks filtering by parent category, which could provide a more nuanced analysis of each category. To address this limitation, filtering by year could also reveal areas for potential improvement. To gain a comprehensive overview of all parent categories, another Outcomes by Launch Date graph could be created, along with separate Outcomes by Goals graphs for each parent category, to yield a more thorough analysis of campaign outcomes.
