@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project was done to compare other campaigns based on the funding goals and the launch dates. The theater campaign was more successful with May and June launch dates. In addition to this, the more successful goals were under five thousand dollars.
+This project was done to uncover trends within campaigns and to find successful fundraisers. Analysis was based on funding goals and the launch dates. 
 
 ### Purpose
 After analyzing the play Fever, the purpose of this project was to analyze campaign funding goals and their launch dates to identify trends.
