@@ -3,9 +3,6 @@
 ## Overview of Project
 Our primary goal was to assist Louise with her crowdfunding campaign to raise more than $10,000 for her forthcoming play "Fever," and to help her make informed decisions for a successful campaign using Excel and the Kickstarter dataset to analyze similar past events and their outcomes, as well as identifying relevant factors that influenced them, enabling Louise to assess different options and strategies to achieve her goal.
 
-### Purpose
-After analyzing the play Fever, the purpose of this project was to analyze campaign funding goals and their launch dates to identify trends.
-
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
